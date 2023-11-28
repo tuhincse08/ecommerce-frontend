@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.icon_shaper {
+    @apply border border-gray-400 rounded-full w-12 h-12 grid place-items-center text-[24px]
+  }
